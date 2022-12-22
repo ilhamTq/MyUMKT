@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "920575642417",
+    "project_id": "myumkt-d478a",
+    "storage_bucket": "myumkt-d478a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920575642417:android:6749e4572301316751fe10",
+        "android_client_info": {
+          "package_name": "com.example.my_umkt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "920575642417-u4n36nvsejjucvplga08sqmvfnkp1bo8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAe_1N_mzXJpY6gYJYZm_unQsRVwvAhY-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "920575642417-u4n36nvsejjucvplga08sqmvfnkp1bo8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
